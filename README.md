@@ -1,5 +1,4 @@
-# Hi there, I'm Terry 👋
-
+# Hi there, I'm Terry👋🏽
 I'm a recent **Computer Science graduate** passionate about building modern web applications and continuously improving my software development skills.
 
 ## 🚀 About Me
