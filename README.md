@@ -11,7 +11,8 @@ I'm a recent **Computer Science graduate** passionate about building modern web 
 ## 🛠️ Tech Stack
 
 ### Languages
-- JavaScript
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
 - Python
 - HTML
 - CSS
