@@ -13,20 +13,20 @@ I'm a recent **Computer Science graduate** passionate about building modern web 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
-- Python
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 - HTML
 - CSS
 
 ### Frontend
-- React
-- Next.js
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)
 - Tailwind CSS
 
 ### Backend
-- Django
+![Django](https://img.shields.io/badge/Django-092E20?logo=django)
 
 ### Tools
-- Git
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 - GitHub
 - VS Code
 - MySQL
