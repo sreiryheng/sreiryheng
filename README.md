@@ -54,15 +54,6 @@ I'm a recent **Computer Science graduate** passionate about building modern web 
 
 ## 📌 Featured Projects
 
-### 🍽️ LocalKitchen
-A restaurant discovery and ordering platform built with **Next.js, React, Django, and MySQL**.
-
-Features:
-- User authentication
-- Restaurant discovery
-- Blog system
-- Ordering functionality
-
 ### 📝 Notes App
 A full-stack notes application built with **React and Django**.
 
